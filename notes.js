@@ -1,4 +1,4 @@
-    JS notes
+                   //JS notes
 
 // Global variables to keep track of game state
 let currMoleTile; // The current tile where the mole is located
