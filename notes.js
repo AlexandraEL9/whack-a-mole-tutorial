@@ -102,3 +102,11 @@ function selectTile() {
         gameOver = true; // Set game over flag to true
     }
 }
+
+
+
+
+To improve game- 
+           add timed element/ rounds
+           add levels- FileSystemWritableFileStream/ slower appearance of mole
+           add sounds when click on image ding/ buzzers
